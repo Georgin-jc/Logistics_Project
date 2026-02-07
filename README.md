@@ -20,6 +20,6 @@ Fahrtour;BezFahrtour;Depot;Depotbezeichnung;DepotPLZ;DepotOrt;DepotStrasse;Depot
 1000;Stralsund;D100;Depot Stralsund;18510;Wittenhagen;Elmenhorster Str.;11;;18461;Test Berich 1;Del101;TD1;18461;Gremersdorf-Buchholz;Buchholz;Sievertshäger Str.;4;
 
 
-For Route optimisation Try De1101, Del102 or add any more in to the system. The Structure of data.
+For Route optimisation Try De1101, Del102 or add any more in to the system using import.
 
 
